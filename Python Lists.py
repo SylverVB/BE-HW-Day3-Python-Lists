@@ -99,7 +99,6 @@ print(temperatures_second_week)
 
 # Task 2: Extract all the temperatures above 100. **hint** add the temperatures over 100 to a new list.
 
-
 # Option 1. Slices
 
 high_temperatures = temperatures[-6:]
